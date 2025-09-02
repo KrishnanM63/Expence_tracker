@@ -1,1 +1,45 @@
 
+        body{
+            background-color: #A9CEF4;
+        }
+        .main{
+         margin-left: 35%;
+         height: auto;
+         width: 300px;
+         background-color: white;
+         padding: 30px;
+         border-radius: 10px;
+         margin-top: 10%;
+           
+        }
+        input{
+            margin-top: 20px;
+           
+            height: 30px;
+            width: 300px;
+            border-radius: 7px;
+            border: none;
+            border-style: groove;
+        }
+        button{
+           margin-top: 20px;
+       
+            height: 30px;
+            width: 300px;
+            border-radius: 7px;
+          
+            margin-left: 3px;
+            background-color: green;
+       
+            color: white;
+        
+        }
+        h1{
+            
+            margin-left: 30px;
+            margin-top: 15px;
+            font-size: 27px;
+        }
+        h2,h3,p{
+            text-align: center;
+        }
